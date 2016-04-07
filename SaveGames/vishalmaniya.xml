@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><game>
+    <player>
+        <player_item>
+            <id>1</id>
+            <turn>1</turn>
+            <name>player1</name>
+            <color>red</color>
+            <secretcard_name>2</secretcard_name>
+            <minion>8</minion>
+            <building>6</building>
+            <money>10</money>
+            <loan>0</loan>
+            <city_area/>
+            <minion_location>
+                <location area="1">1</location>
+                <location area="5">1</location>
+                <location area="7">1</location>
+                <location area="10">1</location>
+            </minion_location>
+            <building_location/>
+            <green_card>
+                <greencard>15</greencard>
+                <greencard>17</greencard>
+                <greencard>34</greencard>
+                <greencard>32</greencard>
+                <greencard>6</greencard>
+            </green_card>
+            <random_card>
+                <randomcard>10</randomcard>
+                <randomcard>11</randomcard>
+                <randomcard>12</randomcard>
+                <randomcard>13</randomcard>
+                <randomcard>14</randomcard>
+            </random_card>
+        </player_item>
+        <player_item>
+            <id>2</id>
+            <turn>0</turn>
+            <name>player2</name>
+            <color>green</color>
+            <secretcard_name>0</secretcard_name>
+            <minion>9</minion>
+            <building>5</building>
+            <money>4</money>
+            <loan>0</loan>
+            <city_area>
+                <city_name>6</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">2</location>
+                <location area="5">2</location>
+                <location area="7">2</location>
+            </minion_location>
+            <building_location>
+                <buildlocation area="7">4</buildlocation>
+            </building_location>
+            <green_card>
+                <greencard>25</greencard>
+                <greencard>13</greencard>
+                <greencard>18</greencard>
+                <greencard>31</greencard>
+                <greencard>48</greencard>
+            </green_card>
+            <random_card>
+                <randomcard>10</randomcard>
+                <randomcard>11</randomcard>
+                <randomcard>12</randomcard>
+                <randomcard>13</randomcard>
+                <randomcard>14</randomcard>
+            </random_card>
+        </player_item>
+    </player>
+    <bank>
+        <bank_money>106</bank_money>
+        <trouble>8</trouble>
+        <trouble_location>
+            <troublelocation area="1">3</troublelocation>
+            <troublelocation area="5">3</troublelocation>
+            <troublelocation area="7">3</troublelocation>
+            <troublelocation area="10">2</troublelocation>
+        </trouble_location>
+        <demon>4</demon>
+        <demon_location/>
+        <troll>3</troll>
+        <troll_location/>
+        <green_card_deck>
+            <greendeckcard>39</greendeckcard>
+            <greendeckcard>7</greendeckcard>
+            <greendeckcard>24</greendeckcard>
+            <greendeckcard>14</greendeckcard>
+            <greendeckcard>26</greendeckcard>
+            <greendeckcard>9</greendeckcard>
+            <greendeckcard>12</greendeckcard>
+            <greendeckcard>47</greendeckcard>
+            <greendeckcard>42</greendeckcard>
+            <greendeckcard>8</greendeckcard>
+            <greendeckcard>45</greendeckcard>
+            <greendeckcard>27</greendeckcard>
+            <greendeckcard>36</greendeckcard>
+            <greendeckcard>35</greendeckcard>
+            <greendeckcard>19</greendeckcard>
+            <greendeckcard>1</greendeckcard>
+            <greendeckcard>38</greendeckcard>
+            <greendeckcard>29</greendeckcard>
+            <greendeckcard>46</greendeckcard>
+            <greendeckcard>4</greendeckcard>
+            <greendeckcard>33</greendeckcard>
+            <greendeckcard>21</greendeckcard>
+            <greendeckcard>11</greendeckcard>
+            <greendeckcard>44</greendeckcard>
+            <greendeckcard>40</greendeckcard>
+            <greendeckcard>3</greendeckcard>
+            <greendeckcard>2</greendeckcard>
+            <greendeckcard>10</greendeckcard>
+            <greendeckcard>43</greendeckcard>
+            <greendeckcard>28</greendeckcard>
+            <greendeckcard>30</greendeckcard>
+            <greendeckcard>20</greendeckcard>
+            <greendeckcard>41</greendeckcard>
+            <greendeckcard>5</greendeckcard>
+            <greendeckcard>22</greendeckcard>
+            <greendeckcard>37</greendeckcard>
+            <greendeckcard>16</greendeckcard>
+            <greendeckcard>23</greendeckcard>
+        </green_card_deck>
+    </bank>
+</game>

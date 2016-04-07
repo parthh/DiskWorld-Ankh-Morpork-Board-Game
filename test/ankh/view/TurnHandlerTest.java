@@ -1,0 +1,48 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ankh.view;
+
+import java.util.ArrayList;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+/**
+ *
+ * @author user
+ */
+public class TurnHandlerTest {
+    TurnHandler instance = new TurnHandler(false);
+    
+    public TurnHandlerTest() {
+    }
+    
+    @BeforeClass
+    public static void setUpClass() {
+    }
+    
+    
+    @AfterClass
+    public static void tearDownClass() {
+    }
+
+
+    /**
+     * Test of random_event_id method, of class TurnHandler.
+     */
+    @Test
+    public void testRandom_event_id() {
+        System.out.println("random_event_id");
+        int id = 11;        
+        int expResult = 3;
+        int result = instance.random_event_id(id);
+        assertEquals(expResult, result);
+        System.out.println("check");
+    }
+    
+
+}

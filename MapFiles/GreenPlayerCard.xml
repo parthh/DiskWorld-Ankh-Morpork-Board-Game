@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<greencard>
+    <card id="1">
+        <card_name>MrBoggis</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Take $2, if possible, from every other player</card_detail>
+    </card> 
+
+    <card id="2">
+        <card_name>MrBent</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Borrow $ 10 from the bank.</card_detail>
+    </card>     
+
+    <card id="3">
+        <card_name>TheBeggars'Guild</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Select one player. They must give you two cards of their choice</card_detail>
+        
+    </card>  
+
+    <card id="4">
+        <card_name>TheBankOfAnkh-Morpork</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Borrow $ 10 from the bank.</card_detail>
+    </card> 
+
+    <card id="5">
+        <card_name>TheAnkhMorporkSunshineDragonSanctuary</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Each player must give you either $1 or one of their cards</card_detail>
+    </card>   
+
+    <card id="6">
+        <card_name>SergeantAngua</card_name>
+        <card_event>
+            <event>4</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="7">
+        <card_name>TheAgonyAunts</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="2">5</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="8">
+        <card_name>TheDysk</card_name>
+        <card_event>
+            <event>2</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Earn $1 for each minion in The Isle of Gods</card_detail>
+    </card>  
+
+    <card id="9">
+        <card_name>TheDuckman</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Move a minion belonging to another player from one area to an adjacent area</card_detail>
+    </card>  
+
+    <card id="10">
+        <card_name>Drumknott</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Play any two other cards from your hand</card_detail>
+    </card>  
+
+    <card id="11">
+        <card_name>CMOTDibbler</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>
+            Roll the dice, if ROLL7 or more take $4, if ROLL1 pay $2 or remove one minion</card_detail>
+    </card>  
+
+    <card id="12">
+        <card_name>DrCruces</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="3">5</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="13">
+        <card_name>CaptainCarrot</card_name>
+        <card_event>
+            <event>1</event>
+            <event>4</event>
+            <event cost="1">5</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="14">
+        <card_name>MrsCake</card_name>
+        <card_event>
+            <event>6</event>
+            <event cost="2">5</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Look at all but one of the unused Personality cards</card_detail>
+    </card>   
+
+    <card id="15">
+        <card_name>Groat</card_name>
+        <card_event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="16">
+        <card_name>Gimlet'sDwarfDelicatessen</card_name>
+        <card_event>
+            <event cost="3">5</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="17">
+        <card_name>Gaspode</card_name>
+        <card_event>
+            <event>9</event>
+        </card_event>
+        <card_detail>Stop a player from moving or removing one of your minions</card_detail>
+    </card>  
+
+    <card id="18">
+        <card_name>FreshStartClub</card_name>
+        <card_event>
+            <event>9</event>
+        </card_event>
+        <card_detail>If you have a minion removed you can place him in a differnt area</card_detail>
+    </card>  
+
+    <card id="19">
+        <card_name>FoulOleRon</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Move a minion belonging to another player from one area to an adjacent area</card_detail>
+    </card>  
+
+    <card id="20">
+        <card_name>TheFools'Guild</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Select another player. If they do not give you $5 then place this card in front of them. This card now counts towards their hand size of five cards when they come to refill their hand. They cannot get rid of this card</card_detail>
+    </card>  
+
+    <card id="21">
+        <card_name>TheFireBrigade</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Choose a player. If he doen not pay you $5 then you can remove one of his buildings from the board</card_detail>
+    </card>  
+
+    <card id="22">
+        <card_name>InigoSkimmer</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="2">5</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="23">
+        <card_name>HistoryMonks</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Shuffle the discard pile and draw four cards randomly. Place the remaining cards back as the discardpile</card_detail>
+    </card>  
+
+    <card id="24">
+        <card_name>Hex</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Take three cards from the draw deck</card_detail>
+    </card>  
+
+    <card id="25">
+        <card_name>Here'n'Now</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Roll the die. On a roll of '7' or more you take $3 from a player of your choice. On a roll of a '1' you must remove one of your minions from the board. All other results have no effort</card_detail>
+    </card>  
+
+    <card id="26">
+        <card_name>HarryKing</card_name>
+        <card_event>
+            <event>1</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Discard as many as you wish and take $2 for each one discarded</card_detail>
+    </card>  
+
+    <card id="27">
+        <card_name>Harga'sHouseOfRibs</card_name>
+        <card_event>
+            <event cost="3">5</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="28">
+        <card_name>MrGryle</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="1">5</event>
+        </card_event>
+        <card_detail>Take $2, if possible, from every other player</card_detail>
+    </card>  
+
+    <card id="29">
+        <card_name>ThePeeledNuts</card_name>
+        <card_event>
+           
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="30">
+        <card_name>TheOperaHouse</card_name>
+        <card_event>
+            <event>2</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Earn $1 for each minion in The Isle of Gods</card_detail>
+    </card>  
+
+    <card id="31">
+        <card_name>NobbyNobbs</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Take $3 from a player of your choice</card_detail>
+    </card>  
+
+    <card id="32">
+        <card_name>Modo</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Discard one card</card_detail>
+    </card>  
+
+    <card id="33">
+        <card_name>TheMendedDrum</card_name>
+        <card_event>
+            <event>2</event>
+            <event cost="2">5</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="34">
+        <card_name>Librarian</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Take four cards from draw deck</card_detail>
+    </card>  
+
+    <card id="35">
+        <card_name>LeonardOfQuirm</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Take four cards from the draw deck</card_detail>
+    </card>  
+
+    <card id="36">
+        <card_name>ShonkyShop</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Discard ad many cards as you wish and take $1 for each one discarded</card_detail>
+    </card>  
+
+    <card id="37">
+        <card_name>SacharissaCripslock</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Earn $1 from each trouble marker on the board</card_detail>
+    </card>  
+
+    <card id="38">
+        <card_name>RosiePalm</card_name>
+        <card_event>
+            <event>1</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Choose one player. Give them one of your cards. They must give you $2 in return</card_detail>
+    </card>  
+
+    <card id="39">
+        <card_name>Rincewind</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Move one of your minions from an area containing a truble marker to an adjacent area</card_detail>
+    </card>  
+
+    <card id="40">
+        <card_name>TheRoyalMint</card_name>
+        <card_event>
+            <event>2</event>
+            <event cost="5">5</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="41">
+        <card_name>QueenMolly</card_name>
+        <card_event>
+            <event>1</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Select one player. They must give you two cards of their choice</card_detail>
+    </card>  
+
+    <card id="42">
+        <card_name>PinkPussyCatClub</card_name>
+        <card_event>
+            <event cost="3">5</event>
+            <event>8</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>  
+
+    <card id="43">
+        <card_name>ZorgotheRetro-phrenologist</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>You may exchange your Personality card with one drawn randomly from those not in use</card_detail>
+    </card>  
+
+    <card id="44">
+        <card_name>DrWhiteface</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Select another player. If they do not give you $5 then place this card in front of them. This card now counts towards their hand size of five cards when they come to refill their hand. They cannot get rid of this card</card_detail>
+    </card>  
+
+    <card id="45">
+        <card_name>WallaceSonky</card_name>
+        <card_event>
+            <event>9</event>
+        </card_event>
+        <card_detail>You cannot be affected by the text on a card played by another player</card_detail>
+    </card>  
+
+    <card id="46">
+        <card_name>TheSeamstresses'Guild</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Choose one player. Give them one of your cards. They must give you $2 in return</card_detail>
+    </card>  
+
+    <card id="47">
+        <card_name>MrPinandMrTulip</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="1">5</event>
+        </card_event>
+        <card_detail>The New Firm</card_detail>
+    </card>  
+
+    <card id="48">
+        <card_name>TheThieves'Guild</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Take $2, if possible, from every other player</card_detail>
+    </card>  
+</greencard>

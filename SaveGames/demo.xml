@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><game>
+    <player>
+        <player_item>
+            <id>1</id>
+            <turn>0</turn>
+            <name>meet</name>
+            <color>red</color>
+            <secretcard_name>6</secretcard_name>
+            <minion>9</minion>
+            <building>6</building>
+            <city_area>
+                <city_name>4</city_name>
+                <city_name>4</city_name>
+                <city_name>4</city_name>
+                <city_name>4</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">9</location>
+                <location area="3">16</location>
+                <location area="11">9</location>
+            </minion_location>
+        </player_item>
+        <player_item>
+            <id>2</id>
+            <turn>1</turn>
+            <name>player2</name>
+            <color>green</color>
+            <secretcard_name>5</secretcard_name>
+            <minion>9</minion>
+            <building>6</building>
+            <city_area>
+                <city_name>3</city_name>
+                <city_name>3</city_name>
+                <city_name>3</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">17</location>
+                <location area="3">9</location>
+                <location area="11">10</location>
+            </minion_location>
+        </player_item>
+    </player>
+</game>

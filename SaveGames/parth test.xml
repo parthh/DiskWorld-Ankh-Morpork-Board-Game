@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><game>
+    <player>
+        <player_item>
+            <id>1</id>
+            <turn>0</turn>
+            <name>player1</name>
+            <color>red</color>
+            <secretcard_name>3</secretcard_name>
+            <minion>8</minion>
+            <building>5</building>
+            <money>4</money>
+            <loan>0</loan>
+            <city_area>
+                <city_name>6</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">1</location>
+                <location area="5">1</location>
+                <location area="7">1</location>
+                <location area="10">1</location>
+            </minion_location>
+            <building_location>
+                <location area="7">4</location>
+            </building_location>
+            <green_card>
+                <card>11</card>
+                <card>36</card>
+                <card>27</card>
+                <card>22</card>
+                <card>30</card>
+            </green_card>
+            <random_card>
+                <card>dragon</card>
+                <card>fog</card>
+                <card>explosion</card>
+                <card>subsidence</card>
+                <card>Earthquake</card>
+            </random_card>
+        </player_item>
+        <player_item>
+            <id>2</id>
+            <turn>1</turn>
+            <name>player2</name>
+            <color>green</color>
+            <secretcard_name>6</secretcard_name>
+            <minion>9</minion>
+            <building>6</building>
+            <money>12</money>
+            <loan>0</loan>
+            <city_area/>
+            <minion_location>
+                <location area="1">2</location>
+                <location area="5">2</location>
+                <location area="7">2</location>
+            </minion_location>
+            <building_location/>
+            <green_card>
+                <card>28</card>
+                <card>47</card>
+                <card>31</card>
+                <card>19</card>
+                <card>46</card>
+            </green_card>
+            <random_card>
+                <card>dragon</card>
+                <card>fog</card>
+                <card>explosion</card>
+                <card>subsidence</card>
+                <card>Earthquake</card>
+            </random_card>
+        </player_item>
+    </player>
+    <bank>
+        <bank_money>104</bank_money>
+        <trouble>8</trouble>
+        <demon>4</demon>
+        <trouble_location>
+            <location area="1">3</location>
+            <location area="5">3</location>
+            <location area="7">3</location>
+            <location area="10">2</location>
+        </trouble_location>
+        <troll>3</troll>
+        <troll_location/>
+        <green_card_deck>
+            <card>3</card>
+            <card>21</card>
+            <card>48</card>
+            <card>26</card>
+            <card>9</card>
+            <card>2</card>
+            <card>10</card>
+            <card>7</card>
+            <card>25</card>
+            <card>15</card>
+            <card>42</card>
+            <card>40</card>
+            <card>35</card>
+            <card>18</card>
+            <card>29</card>
+            <card>17</card>
+            <card>6</card>
+            <card>14</card>
+            <card>45</card>
+            <card>4</card>
+            <card>44</card>
+            <card>23</card>
+            <card>39</card>
+            <card>12</card>
+            <card>16</card>
+            <card>1</card>
+            <card>33</card>
+            <card>20</card>
+            <card>13</card>
+            <card>41</card>
+            <card>43</card>
+            <card>5</card>
+            <card>8</card>
+            <card>34</card>
+            <card>32</card>
+            <card>38</card>
+            <card>37</card>
+            <card>24</card>
+        </green_card_deck>
+    </bank>
+</game>

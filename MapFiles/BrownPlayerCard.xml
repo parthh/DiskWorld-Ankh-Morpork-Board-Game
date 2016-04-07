@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<browncard>
+    <card id="1">
+        <card_name>SergeantCheeryLittlebottom </card_name>
+        <card_event>
+            <event>6</event>
+            <event>4</event>
+        </card_event>
+        <card_detail>Take two cards from the draw deck</card_detail>
+    </card> 
+
+    <card id="2">
+        <card_name>OttoChriek</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Earn $1 for each trouble marker on the board</card_detail>
+    </card> 
+
+    <card id="3">
+        <card_name>TheClacks</card_name>
+        <card_event>
+            <event>6</event>
+            <event cost="2">5</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Take two cards from the draw deck</card_detail>
+    </card> 
+
+    <card id="4">
+        <card_name>SergeantColon</card_name>
+        <card_event>
+            <event>4</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="5">
+        <card_name>CosmoLavish</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Pay another player $2. They must remove one minion of their choice(not one of yours) from an area with a trouble marker in it</card_detail>
+    </card> 
+
+    <card id="6">
+        <card_name>TheDean</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Remove one minion from Unreal Estate</card_detail>
+    </card> 
+
+    <card id="7">
+        <card_name>'HELLO'</card_name>
+        <card_event>
+            <event>3</event>
+            <event>3</event>
+            <event>2</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="8">
+        <card_name>BurleighAndStronginthearm</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Pay a player of your choice $2. Then choose a minion to assassinate</card_detail>
+    </card> 
+
+    <card id="9">
+        <card_name>TheBursar</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Exchange the position of any two minions on the board</card_detail>
+    </card> 
+
+    <card id="10">
+        <card_name>CableStreetParticulars</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Select one player. Look at his cards. Choose one of them to be discarded</card_detail>
+    </card> 
+
+    <card id="11">
+        <card_name>CantingCrew</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Move a minion belonging to another player from one area to an adjacent area</card_detail>
+    </card> 
+
+    <card id="12">
+        <card_name>Carcer</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Roll the dice twice and remove one minion of your choice from those areas, even if there is no trouble there</card_detail>
+    </card> 
+
+    <card id="13">
+        <card_name>TheChairofIndefiniteStudies</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Exchange your hand with that of another player</card_detail>
+    </card> 
+
+    <card id="14">
+        <card_name>SirCharlesLavatory</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Earn $1 for each building on the board(any colour)</card_detail>
+    </card> 
+
+    <card id="15">
+        <card_name>Dorfl</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Move one of your minions from one area to any other area on the board</card_detail>
+    </card> 
+
+    <card id="16">
+        <card_name>SergeantDetritus</card_name>
+        <card_event>
+            <event>4</event>
+            <event>4</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="17">
+        <card_name>DeepDwarves</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Place a minion in any area and do not place a troble marker</card_detail>
+    </card> 
+
+    <card id="18">
+        <card_name>AdoraBelleDearheart</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Move one of your minions from one area to any other area on the board</card_detail>
+    </card> 
+
+    <card id="19">
+        <card_name>TheAlchemists'Guild</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Discard up to three cards and refill your hand to five cards</card_detail>
+    </card> 
+
+    <card id="20">
+        <card_name>TheAuditors</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Every other player, in player order, must remove one of their minion from the board</card_detail>
+    </card> 
+
+    <card id="21">
+        <card_name>BuggySwires</card_name>
+        <card_event>
+            <event>4</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="22">
+        <card_name>Susan</card_name>
+        <card_event>
+            <event>9</event>
+        </card_event>
+        <card_detail>Stop one of your minions from being removed from the board</card_detail>
+    </card> 
+
+    <card id="23">
+        <card_name>SybilVimes</card_name>
+        <card_event>
+            <event cost="3">5</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Replace another player's building with one of your own. Pay the cost of the building to the original owner. It must be an area that does not have a trouble marker</card_detail>
+    </card> 
+
+    <card id="24">
+        <card_name>MrTeatime</card_name>
+        <card_event>
+            <event cost="3">5</event>
+            <event>3</event>
+            <event>8</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="25">
+        <card_name>TheWatch</card_name>
+        <card_event>
+            <event>2</event>
+            <event>4</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="26">
+        <card_name>WeeMadArthur</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>You may build a building for half price</card_detail>
+    </card> 
+
+    <card id="27">
+        <card_name>WilliamDeWorde</card_name>
+        <card_event>
+            <event>1</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Earn $1 for each trouble marker on the board</card_detail>
+    </card> 
+
+    <card id="28">
+        <card_name>Willikins</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Place one minion in an area that you have a building in</card_detail>
+    </card> 
+
+    <card id="29">
+        <card_name>ArchchancellorRidcully</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Place one or two minion in or adjacent to Unreal Estate</card_detail>
+    </card> 
+
+    <card id="30">
+        <card_name>Ruby</card_name>
+        <card_event>
+            <event>1</event>
+            <event>2</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card>
+
+    <card id="31">
+        <card_name>TheSeniorWrangler</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Place one minion in or adjacent to Unreal Estate</card_detail>
+    </card> 
+
+    <card id="32">
+        <card_name>MrShine</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Place a mininon in any area and do not place a trouble marker</card_detail>
+    </card> 
+
+    <card id="33">
+        <card_name>MrSlant</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Chose an area containing a trouble marker and receive $2 for each minion there</card_detail>
+    </card> 
+
+    <card id="34">
+        <card_name>TheSmokingGnu</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Place one minion in an area containing a truble marker</card_detail>
+    </card> 
+
+    <card id="35">
+        <card_name>Stanley</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Select two cards randomly from one player and choose one to keep. Return the other card.</card_detail>
+    </card> 
+
+    <card id="36">
+        <card_name>MoistvonLipwig</card_name>
+        <card_event>
+            <event>1</event>
+            <event cost="3">5</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Take two cards from the draw deck</card_detail>
+    </card> 
+
+    <card id="37">
+        <card_name>DoctorMossyLawn</card_name>
+        <card_event>
+            <event>9</event>  
+        </card_event>
+        <card_detail>Interupt your own turn. Your turn finishes but do not discard the card you played before this one</card_detail>
+    </card> 
+
+    <card id="38">
+        <card_name>Patrician'sPalace</card_name>
+        <card_event>
+            <event>2</event>
+            <event cost="4">5</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="39">
+        <card_name>PonderStibbons</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Play any two other cards from your hand</card_detail>
+    </card> 
+
+    <card id="40">
+        <card_name>ThePostOffice</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Take $1 for each building on the board</card_detail>
+    </card> 
+
+    <card id="41">
+        <card_name>ReacherGilt</card_name>
+        <card_event>
+            <event>6</event>
+        </card_event>
+        <card_detail>You can replace another player's building with one of your own. Pay the cost of the building to the original owner. It must be an area that has a trouble marker in it</card_detail>
+    </card> 
+
+    <card id="42">
+        <card_name>ProfessorofRecentRunes</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Take two cards from the draw deck</card_detail>
+    </card> 
+
+    <card id="43">
+        <card_name>DoctorHix</card_name>
+        <card_event>
+            <event>7</event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Place a truble marker in a area of your choice</card_detail>
+    </card> 
+
+    <card id="44">
+        <card_name>Hobson'sLiveryStable</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Pay $2 to a player of your choice. Then move one of your minions to any area you wish</card_detail>
+    </card> 
+
+    <card id="45">
+        <card_name>Hubert</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+        </card_event>
+        <card_detail>Force one player to give another player $3 (you cannot choose youeself)</card_detail>
+    </card> 
+
+    <card id="46">
+        <card_name>Igor</card_name>
+        <card_event>
+            <event>9</event>
+        </card_event>
+        <card_detail>If you have a minion removed you place him in a different area</card_detail>
+    </card> 
+
+    <card id="47">
+        <card_name>TheLuggage</card_name>
+        <card_event>
+            <event>3</event>
+            <event>6</event>
+        </card_event>
+        <card_detail>Discard one card</card_detail>
+    </card> 
+
+    <card id="48">
+        <card_name>TheMob</card_name>
+        <card_event>
+            <event>6</event>
+            <event>1</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Place one trouble marker in an area adjacent to one already containing a trouble marker</card_detail>
+    </card> 
+
+    <card id="49">
+        <card_name>LordDowney</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="3">5</event>
+            <event>2</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="50">
+        <card_name>Dwarves</card_name>
+        <card_event>
+            <event>1</event>
+            <event>1</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="51">
+        <card_name>Edwardd'Eath</card_name>
+        <card_event>
+            <event>3</event>
+            <event cost="3">5</event>
+            <event>2</event>
+        </card_event>
+        <card_detail></card_detail>
+    </card> 
+
+    <card id="52">
+        <card_name>Errol</card_name>
+        <card_event>
+            <event>6</event>
+            <event>8</event>
+        </card_event>
+        <card_detail>Roll the dice. On a roll of '7' or more you remove a minion of your choice from an area containing a trouble marker. On a roll of a '1' you must remove one of your own minions</card_detail>
+    </card> 
+
+    <card id="53">
+        <card_name>Gargoyles</card_name>
+        <card_event>
+            <event>6</event>
+            <event>2</event>
+        </card_event>
+        <card_detail>Draw one card for each building you have on the board</card_detail>
+    </card> 
+</browncard>

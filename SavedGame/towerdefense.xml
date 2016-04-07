@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <towerinfo>
+        <tower id="1">
+            <level>1</level>
+        </tower>
+    </towerinfo>
+</game>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game>
+    <player>
+        <player_item>
+            <id>1</id>
+            <turn>1</turn>
+            <name>PARTH</name>
+            <color>red</color>
+            <secretcard_name>0</secretcard_name>
+            <minion>4</minion>
+            <building>5</building>
+            <money>15</money>
+            <loan>0</loan>
+            <city_area>
+                <city_name>7</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">1</location>
+                <location area="2">1</location>
+                <location area="3">1</location>
+                <location area="3">2</location>
+                <location area="8">1</location>
+                <location area="10">1</location>
+                <location area="11">1</location>
+                <location area="12">1</location>
+            </minion_location>
+            <building_location>
+                <buildlocation area="8">10</buildlocation>
+            </building_location>
+            <green_card>
+                <greencard>13</greencard>
+                <greencard>18</greencard>
+                <greencard>47</greencard>
+                <greencard>29</greencard>
+                <greencard>48</greencard>
+            </green_card>
+        </player_item>
+        <player_item>
+            <id>2</id>
+            <turn>0</turn>
+            <name>VISHAL</name>
+            <color>yellow</color>
+            <secretcard_name>5</secretcard_name>
+            <minion>8</minion>
+            <building>3</building>
+            <money>22</money>
+            <loan>0</loan>
+            <city_area>
+                <city_name>4</city_name>
+                <city_name>6</city_name>
+                <city_name>10</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">2</location>
+                <location area="5">1</location>
+                <location area="7">1</location>
+                <location area="11">2</location>
+            </minion_location>
+            <building_location>
+                <buildlocation area="5">10</buildlocation>
+                <buildlocation area="7">10</buildlocation>
+                <buildlocation area="11">10</buildlocation>
+            </building_location>
+            <green_card>
+                <greencard>22</greencard>
+                <greencard>32</greencard>
+                <greencard>41</greencard>
+                <greencard>9</greencard>
+                <greencard>8</greencard>
+            </green_card>
+        </player_item>
+    <player_item>
+            <id>3</id>
+            <turn>0</turn>
+            <name>MEET</name>
+            <color>green</color>
+            <secretcard_name>4</secretcard_name>
+            <minion>8</minion>
+            <building>6</building>
+            <money>17</money>
+            <loan>0</loan>
+            <city_area/>
+            <minion_location>
+                <location area="1">3</location>
+                <location area="8">2</location>
+                <location area="9">1</location>
+                <location area="11">3</location>
+            </minion_location>
+            <building_location/>
+            <green_card>
+                <greencard>12</greencard>
+                <greencard>19</greencard>
+                <greencard>1</greencard>
+                <greencard>14</greencard>
+                <greencard>6</greencard>
+            </green_card>
+        </player_item>
+        <player_item>
+            <id>4</id>
+            <turn>0</turn>
+            <name>HARPREET</name>
+            <color>blue</color>
+            <secretcard_name>3</secretcard_name>
+            <minion>3</minion>
+            <building>5</building>
+            <money>18</money>
+            <loan>0</loan>
+            <city_area>
+                <city_name>5</city_name>
+            </city_area>
+            <minion_location>
+                <location area="1">4</location>
+                <location area="5">2</location>
+                <location area="5">3</location>
+                <location area="5">4</location>
+                <location area="6">1</location>
+                <location area="7">2</location>
+                <location area="9">2</location>
+                <location area="9">3</location>
+                <location area="12">2</location>
+            </minion_location>
+            <building_location>
+                <buildlocation area="6">10</buildlocation>
+            </building_location>
+            <green_card>
+                <greencard>17</greencard>
+                <greencard>28</greencard>
+                <greencard>39</greencard>
+                <greencard>37</greencard>
+                <greencard>30</greencard>
+                <greencard>43</greencard>
+            </green_card>
+        </player_item>
+    </player>
+    <bank>
+        <random_card>
+            <randomcard>10</randomcard>
+            <randomcard>11</randomcard>
+            <randomcard>12</randomcard>
+            <randomcard>13</randomcard>
+            <randomcard>14</randomcard>
+        </random_card>
+        <bank_money>48</bank_money>
+        <trouble>6</trouble>
+        <trouble_location>
+            <troublelocation area="1">12</troublelocation>
+            <troublelocation area="3">12</troublelocation>
+            <troublelocation area="5">12</troublelocation>
+            <troublelocation area="7">12</troublelocation>
+            <troublelocation area="9">12</troublelocation>
+            <troublelocation area="11">12</troublelocation>
+        </trouble_location>
+        <demon>3</demon>
+        <demon_location>
+            <demonlocation area="5">14</demonlocation>
+        </demon_location>
+        <troll>1</troll>
+        <troll_location>
+            <trolllocation area="6">16</trolllocation>
+            <trolllocation area="12">16</trolllocation>
+        </troll_location>
+        <green_card_deck>
+            <greendeckcard>2</greendeckcard>
+            <greendeckcard>3</greendeckcard>
+            <greendeckcard>4</greendeckcard>
+            <greendeckcard>5</greendeckcard>
+            <greendeckcard>7</greendeckcard>
+            <greendeckcard>10</greendeckcard>
+            <greendeckcard>11</greendeckcard>
+            <greendeckcard>15</greendeckcard>
+            <greendeckcard>16</greendeckcard>
+            <greendeckcard>20</greendeckcard>
+            <greendeckcard>21</greendeckcard>
+            <greendeckcard>23</greendeckcard>
+            <greendeckcard>24</greendeckcard>
+            <greendeckcard>25</greendeckcard>
+            <greendeckcard>26</greendeckcard>
+            <greendeckcard>27</greendeckcard>
+            <greendeckcard>31</greendeckcard>
+            <greendeckcard>33</greendeckcard>
+            <greendeckcard>34</greendeckcard>
+            <greendeckcard>35</greendeckcard>
+            <greendeckcard>36</greendeckcard>
+            <greendeckcard>38</greendeckcard>
+            <greendeckcard>40</greendeckcard>
+            <greendeckcard>42</greendeckcard>
+            <greendeckcard>44</greendeckcard>
+            <greendeckcard>45</greendeckcard>
+            <greendeckcard>46</greendeckcard>
+        </green_card_deck>
+    </bank>
+</game>
